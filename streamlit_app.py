@@ -5,3 +5,7 @@ streamlit.header("Breakfast Menu")
 streamlit.header("Omega 3 & Blueberry Oatmeal")
 streamlit.header("Kale, Spinach & Rocket Smoothie")
 streamlit.header("Hard-Boiled Free-Range Egg")
+streamlit.header("Avacado Toast")
+
+streamlit.header("Build your Own Fruit Smoothie")
+
